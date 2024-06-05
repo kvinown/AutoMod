@@ -1,0 +1,36 @@
+/* Navbar */
+nav {
+	height: 80px;
+}
+
+/* Hero */
+.hero-page {
+	min-height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-size: cover;
+	background-position: center;
+}
+
+/* Brand Logo */
+.brand-logo {
+	height: 300px;
+	object-fit: contain;
+}
+
+.card-text {
+	min-height: 500px;
+}
+
+.page {
+	min-height: 100vh;
+	height: auto;
+}
+
+.content {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 100vh;
+}
